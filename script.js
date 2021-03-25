@@ -4,7 +4,7 @@ Promise.all([
   faceapi.nets.tinyFaceDetector.loadFromUri('https://www.itsdislab.ga/models/tiny_face_detector_model-weights_manifest.json'),
   faceapi.nets.faceLandmark68Net.loadFromUri('https://www.itsdislab.ga/models/face_landmark_68_model-weights_manifest.json'),
   faceapi.nets.faceRecognitionNet.loadFromUri('https://www.itsdislab.ga/models/face_recognition_model-weights_manifest.json'),
-  faceapi.nets.faceExpressionNet.loadFromUri('https://drive.google.com/file/d/1SMOHGS89ex7ksnjE4WBYuQ9fZau-GMAd/view?usp=sharing')
+  faceapi.nets.faceExpressionNet.loadFromUri('https://www.itsdislab.ga/models/face_expression_model-weights_manifest.json')
 ]).then(startVideo)
 
 function startVideo() {
