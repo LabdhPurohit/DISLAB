@@ -24,31 +24,31 @@
 
 .container .section:nth-child(1)
 {
-    background: url(fccimg1.jpg);
+    background: url(https://raw.githubusercontent.com/LabdhPurohit/DISLAB/main/fccimg1.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(2)
 {
-    background: url(fccimg2.jpg);
+    background: url(https://raw.githubusercontent.com/LabdhPurohit/DISLAB/main/fccimg2.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(3)
 {
-    background:  url(fccimg3.jpg);
+    background:  url(https://raw.githubusercontent.com/LabdhPurohit/DISLAB/main/fccimg3.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(4)
 {
-    background:  url(fccimg4.jpg);
+    background:  url(https://raw.githubusercontent.com/LabdhPurohit/DISLAB/main/fccimg4.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(5)
 {
-    background:  url(fccimg5.jpg);
+    background:  url(https://raw.githubusercontent.com/LabdhPurohit/DISLAB/main/fccimg5.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
