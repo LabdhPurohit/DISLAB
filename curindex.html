@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>CURSOR CHANGER</title>
+        <link rel="stylesheet" type="text/css" href="https://www.itsdislab.ga/curstyle.css">
+    </head>
+    <body>
+        <ul>
+            <li>
+                <a href="https://www.instagram.com/codes_for_folks/">
+                    CODES FOR FOLKS
+                </a>
+            </li>
+            <div class="cursor"></div>
+        </ul>
+        <script>
+            const cursor = document.querySelector('.cursor');
+            document.addEventListener('mousemove', (e) => {
+                cursor.style.left = e.pageX+'px';
+                cursor.style.top = e.pageY+'px'; 
+            })
+        </script>
+    </body>
+</html>
