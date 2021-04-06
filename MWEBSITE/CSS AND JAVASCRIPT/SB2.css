@@ -1,0 +1,60 @@
+.SBBODY
+{
+    font-family: sans-serif;
+    list-style: none;
+    padding: 0;
+}
+
+.skills
+{
+    width: 500px;
+    margin: 60px auto;
+    color:rgb(0, 0, 0);
+
+}
+
+.skills li
+{
+    margin: 20px 0;
+
+}
+
+.SBbar
+{
+    background: #353b48;
+    display: block;
+    height: 9px;
+    border: 1px solid rgb(0, 0, 0, 0.3);
+    border-radius: 9px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+
+}
+
+.SBbar spanSB
+{
+    height: 8px;
+    float: left;
+    background: #a3d2ff;
+}
+
+.SBhtml
+{
+    width: 90%;
+}
+.SBcss
+{
+    width: 65%;
+}
+.SBjava
+{
+    width: 40%;
+}
+.SBaf
+{
+    width: 75%;
+}
+.SBpp
+{
+    width: 95%;
+}
